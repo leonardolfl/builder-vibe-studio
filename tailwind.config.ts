@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        eagle: {
+          blue: "#05467b",
+          "blue-light": "#0369a1",
+          red: "#FF3B30",
+          "red-dark": "#E0352B",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
